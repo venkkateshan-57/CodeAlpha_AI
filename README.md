@@ -1,1 +1,3 @@
-# CodeAlpha_AI
+## CodeAlpha_AI
+
+# Collection of AI Tasks
