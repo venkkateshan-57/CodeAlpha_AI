@@ -2,7 +2,7 @@
 
 Real-time object detection and tracking system using YOLOv3 and centroid-based tracking.
 
-#Features:
+# Features:
 
 -Real-time object detection with YOLOv3
 
