@@ -1,6 +1,8 @@
-## Language Translation Tool
+# Language Translation Tool
+
 A GUI-based application that translates text between 80+ languages using Google Translate API.
-Features:
+
+## Features:
 
 -User-friendly graphical interface
 
