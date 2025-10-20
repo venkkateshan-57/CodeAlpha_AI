@@ -1,4 +1,6 @@
-## AI Music Generator
+# AI Music Generator
+
+## Features:
 
 An LSTM-based deep learning model that generates original music by learning from MIDI files.
 
